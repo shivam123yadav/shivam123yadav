@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivam123yadav/shivam123yadav/main/banner.svg" width="100%" alt="Shivam Yadav" />
+<img src="https://raw.githubusercontent.com/shivam123yadav/shivam123yadav/main/profile-portrait.svg" width="360" alt="Shivam Yadav" />
+
+# Shivam Yadav
 
 <a href="https://github.com/shivam123yadav">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+and+deploying+AI-powered+full-stack+products;ML+%26+API+layer+%E2%86%92+React+interface+%E2%86%92+live+hosting;FastAPI+%7C+React+%7C+TypeScript+%7C+scikit-learn;Seeking+Summer+2027+AI%2FML+%2F+Backend+%2F+Full-Stack+internship" alt="Typing SVG" />
@@ -21,7 +23,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivam123yadav&label=Profile%20Views&color=6D28D9&style=flat-square)
+![Profile Views](https://hits.sh/github.com/shivam123yadav.svg?style=flat-square&label=Profile%20Views&color=6D28D9)
 [![Followers](https://img.shields.io/github/followers/shivam123yadav?label=Followers&style=flat-square&color=4F46E5&labelColor=0D1117)](https://github.com/shivam123yadav?tab=followers)
 [![Stars](https://img.shields.io/github/stars/shivam123yadav?label=Stars&style=flat-square&color=8B5CF6&labelColor=0D1117)](https://github.com/shivam123yadav?tab=repositories)
 
@@ -237,21 +239,11 @@ Problem Statement 26146: AI-powered monitoring and analysis of Bitcoin transacti
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivam123yadav&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam123yadav&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+<img src="https://ghchart.rshah.org/6D28D9/shivam123yadav" alt="Contribution Chart" width="100%" />
 
 </div>
 
@@ -305,4 +297,5 @@ Open To:
 *Build things that work, ship them where people can use them.*
 
 <img src="https://raw.githubusercontent.com/shivam123yadav/shivam123yadav/main/footer.svg" width="100%" alt="" />
+
 </div>
