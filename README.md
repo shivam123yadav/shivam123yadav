@@ -10,7 +10,7 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech_CSE-2024--2028-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech_CS-2024--2028-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![MITS Gwalior](https://img.shields.io/badge/MITS-Gwalior-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)
 
