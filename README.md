@@ -239,16 +239,6 @@ Problem Statement 26146: AI-powered monitoring and analysis of Bitcoin transacti
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/6D28D9/shivam123yadav" alt="Contribution Chart" width="100%" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
