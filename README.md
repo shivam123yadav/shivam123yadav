@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=220&section=header&text=Shivam%20Yadav&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%" />
+<img src="https://raw.githubusercontent.com/shivam123yadav/shivam123yadav/main/banner.svg" width="100%" alt="Shivam Yadav" />
 
 <a href="https://github.com/shivam123yadav">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+and+deploying+AI-powered+full-stack+products;ML+%26+API+layer+%E2%86%92+React+interface+%E2%86%92+live+hosting;FastAPI+%7C+React+%7C+TypeScript+%7C+scikit-learn;Seeking+Summer+2027+AI%2FML+%2F+Backend+%2F+Full-Stack+internship" alt="Typing SVG" />
@@ -304,6 +304,5 @@ Open To:
 
 *Build things that work, ship them where people can use them.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:312E81&height=120&section=footer" width="100%" />
-
+<img src="https://raw.githubusercontent.com/shivam123yadav/shivam123yadav/main/footer.svg" width="100%" alt="" />
 </div>
