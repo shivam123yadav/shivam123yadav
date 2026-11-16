@@ -187,30 +187,6 @@ Problem Statement 26146: AI-powered monitoring and analysis of Bitcoin transacti
 
 ---
 
-## Certifications
-
-<div align="center">
-
-**AWS**
-
-![AWS](https://img.shields.io/badge/AWS-Add_Certification-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-Add_Certification-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Add_Certification-7C3AED?style=for-the-badge&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Add_Certification-312E81?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
 ## Coding Profiles
 
 <div align="center">
